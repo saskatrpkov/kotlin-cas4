@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364840405660",
+    "project_id": "mpos-1910e",
+    "storage_bucket": "mpos-1910e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364840405660:android:74b4eec1d391c833ce7b59",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxztjENC-m2q6y63njP4YF1ECVE8Gxx60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
