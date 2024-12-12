@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "364840405660",
+    "firebase_url": "https://mpos-1910e-default-rtdb.firebaseio.com",
     "project_id": "mpos-1910e",
     "storage_bucket": "mpos-1910e.firebasestorage.app"
   },
