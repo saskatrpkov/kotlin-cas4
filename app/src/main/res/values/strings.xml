@@ -8,4 +8,5 @@
     <string name="retype_your_password">Retype your Password:</string>
     <string name="already_registered">Already registered!</string>
     <string name="sign_in">Sign In</string>
+    <string name="type_your_task">Type your task</string>
 </resources>
